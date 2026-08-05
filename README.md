@@ -24,6 +24,18 @@ A high-performance AVS3 video decoder with NVIDIA CUDA hardware acceleration, ba
 
 **GPU**: NVIDIA GPU with CUDA
 
+## 120Mbps-AVS3-CCTV8K-Play demo
+Capture the display by Nvidia DXGI and Nvenc.
+
+https://github.com/user-attachments/assets/f75a132a-aa4f-4ef3-aa00-1382ae068a1f
+
+https://github.com/user-attachments/assets/8caa76c1-41f9-4668-8f24-03365c9ede23
+
+https://github.com/user-attachments/assets/a83a46fe-b729-4bc6-a070-3fe05dacb7fc
+
+https://github.com/user-attachments/assets/1cfab9ca-f66a-4805-84fe-9b14eee95446
+
+
 
 ## 120Mbps-AVS3-CCTV8K-demo
 The codes can be running at VS2019 with CUDA compile. And AVS3 video decoder with NVIDIA CUDA hardware acceleration is shown in CPU-13900KF and GTX1060.
