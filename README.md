@@ -12,6 +12,12 @@ A high-performance AVS3 video decoder with NVIDIA CUDA hardware acceleration, ba
 - SSE4/AVX2 optimizations retained on CPU side
 - Automatic CUDA detection with CPU fallback
 
+## Source Code
+
+The CUDA acceleration source code is pending release. I have reached out to the original author of uavs3d for permission and am currently awaiting their response. The source code will be published here once I receive confirmation.
+
+In the meantime, the demo videos above showcase the decoder's capability in real-time 8K AVS3 playback.
+
 ## Requirements
 
 | Component | Version |
@@ -51,3 +57,4 @@ BSD 3-Clause License. See COPYING for details.
 ## Acknowledgements
 uavs3d - High-performance AVS3 software decoder
 Copyright: Peking University Shenzhen Graduate School, Peng Cheng Laboratory, Guangdong Bohua UHD Innovation Corporation
+
